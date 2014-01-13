@@ -44,7 +44,7 @@
   // Foto del coworker - TODO
 
   
-  // Devolvemos la informacion del nuevo alumno
+  // Devolvemos la informacion del nuevo usuario
   /*header ("Content-type: text/xml");
   echo "<?xml version=\"1.0\" encoding=\"iso-8859-1\" ?>";
   echo "<xml>";
